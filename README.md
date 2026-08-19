@@ -40,7 +40,7 @@ All roles are read-only. No write access is requested at any point.
 ## Feedback and support
 
 For product feedback, questions about your onboarding, or bug reports,
-please contact us through [brainagents.ai/support](https://brainagents.ai/support).
+please contact us through [brainagents.ai/contact](https://brainagents.ai/contact).
 
 External pull requests are not accepted at this time.
 
