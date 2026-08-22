@@ -1,5 +1,14 @@
 # Brain Agents AI GCP Onboarding Tutorial
 
+> **This tutorial is no longer part of the active Brain Agents AI
+> onboarding flow.** The onboarding wizard was redesigned to a
+> feature-driven model where each product feature maps transparently
+> to the permissions it needs, and the customer receives copy-paste
+> bundles per admin role rather than a single Cloud Shell walkthrough.
+> This repository is preserved as historical record and will be
+> archived. For current onboarding, visit
+> [brainagents.ai](https://brainagents.ai).
+
 This repository hosts the interactive Cloud Shell tutorial for granting
 Brain Agents AI read access to your Google Cloud billing data during
 onboarding.
